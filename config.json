@@ -1,0 +1,7 @@
+{
+  "ollama_model": "gemma3:1b",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_username": "vrachit123@gmail.com",
+  "smtp_password": "rtvcrbgmgmpuyrtx"
+}
